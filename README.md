@@ -1,4 +1,4 @@
-# Oracle-1Z0-1067                      <p       /p>          <img src="imags/logo2.JPG" alt="logo2" style="zoom:25%;margin-right: auto" />
+# Oracle-1Z0-1067                      <p>       </p>          <img src="imags/logo2.JPG" alt="logo2" style="zoom:25%;margin-right: auto" />
 
 ## Comprehensive cheat sheet to pass Oracle 1Z0-1067 Exam
 
