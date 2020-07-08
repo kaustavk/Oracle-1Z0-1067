@@ -210,7 +210,6 @@ https://www.udemy.com/course/oracle-cloud-infra-developer-2020-associate-practic
 https://www.udemy.com/course/oracle-autonomous-database-cloud-specialist-1z0-931-practice-test/
 
 **1Z0-997:**
-
 https://www.udemy.com/course/1z0-997-oracle-cloud-infrastructure-architect-professional-k
 
 
