@@ -60,7 +60,7 @@
   set compute quota vm-standard2-2-count to 20 in compartment dev
 
 - **Control the costs and avoid any overspending:**
-  Associate a Budget Tag to each resource with monthly budget amount and use that Information to prepare a weekly report to send to each team
+  Associate a Budget Tag to each compartment with the monthly budget amount and set an alert rule to notify the developers' teams when they reached a specific percentage of the   budget
 
 - **NOT a valid technique to accurately attribute costs to resources used by each team:**
   Create an Identity and Access Management (IAM) group for each team. Create an OCI budget for each group to track spending
