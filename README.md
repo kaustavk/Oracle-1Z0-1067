@@ -8,7 +8,7 @@
 
 - If OCI Notifications service does not receive an acknowledgement from a subscription endpoint, the service **tries to redeliver messages for up to two hours**. 
 - Configure an alarm on the NumberofNotificationFaiied metric through the OCI Monitoring service to help debug the issue
-- Resource manager stacks are free but you are charged for the resources they create and the number of lines of text in your Terraform configuration files.
+- Resource manager stacks are free. There are no fees for installing and managing Resource Manager, you only pay for the infrastructure you deploy and use for your applications.
 
 ### <u>Console connections:</u>
 - If you do not disconnect from the session, your serial console connection will automatically be terminated after 24 hours.
